@@ -1,3 +1,4 @@
 # hello-world
-Just for learning
+Just for learning.
+
 Hello, Pashupati here. I like Python and AngularJS
